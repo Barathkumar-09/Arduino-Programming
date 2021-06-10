@@ -6,4 +6,4 @@ Here are  list of few basic Arduino programs :
 3. Serial communication
 4. Temperature sensor interface
 5. Ultrasonic sensor 
-6. 
+6. Servo motor interface
