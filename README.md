@@ -13,3 +13,4 @@ Here are  list of few basic Arduino programs :
 9. Interrupt Programming 
 10. Timer Programming
 11. LCD interface
+12. Mini Project - Social distance Alarm system 
